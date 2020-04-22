@@ -1,0 +1,3 @@
+C:/Users/sofik/CLionProjects/Lift/cmake-build-debug/CMakeFiles/Lift.dir
+C:/Users/sofik/CLionProjects/Lift/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sofik/CLionProjects/Lift/cmake-build-debug/CMakeFiles/rebuild_cache.dir
